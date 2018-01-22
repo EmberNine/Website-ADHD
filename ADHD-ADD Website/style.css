@@ -9,6 +9,13 @@ body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;;
 }
+h1 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
 .parallax-container {
   position: fixed;
   overflow: visible;
@@ -65,9 +72,26 @@ body {
   width: 100%;
   min-height: 1500px;
 }
-  .content h1 {
-    color: #fff;
-    font-size: 6em;
-    /*text-transform: uppercase;*/
-    text-align: center;
-  } 
+.content h1 {
+  
+
+  color: #fff;
+  font-size: 2em;
+  /*text-transform: uppercase;*/
+  text-align: center;
+} 
+.content p {
+  color: #fff;
+  font-size: 1em;
+  /*text-transform: uppercase;*/
+  text-align: left;
+} 
+.content h3 {
+  color: #fff;
+  font-size: 3em;
+  /*text-transform: uppercase;*/
+  text-align: left;
+} 
+
+
+
